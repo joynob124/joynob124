@@ -1,8 +1,10 @@
-I’m Joynob and I enjoy self learning.
+<h1 align="center">I'm Joynob, a beginner and a learner</h1>
+<h3 align="center">I'm interested in Software Development</h3>
 
-I’m a student, a learner, a beginner and interested in software development,
+<h3 align="left">I’m currently studying, learning and gaining skills of different language related to my target</h3>
+<p align="left">
+</p>
 
-I’m currently learning different languages and skills that are related to software development
 
 <!---
 joynob124/joynob124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
