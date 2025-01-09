@@ -1,7 +1,7 @@
 <h1 align="center">I'm Joynob, a beginner and a learner</h1>
-<h3 align="center">I'm interested in Software Development</h3>
+<h3 align="center">I'm interested in Machine Learning</h3>
 
-<h3 align="left">I’m currently studying, learning and gaining skills on different languages related to my target</h3>
+<h3 align="left">I’m currently studying, learning and gaining knoledge, skills on different languages related to my target</h3>
 <p align="left">
 </p>
 
