@@ -8,7 +8,8 @@
 
 </div>
 
----
+
+<br>
 
 ## `$ ls tech-stack/`
 
@@ -32,7 +33,7 @@
 **Data** &nbsp;
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Oracle Database` `Relational Data`
 
----
+<br><br>
 
 ## `$ ls builds/`
 
@@ -51,7 +52,7 @@
 - **Tic-Tac-Toe** — Two-player game with Java GUI `Java`
 - **Coffee Vending Machine** — Console-based fully functional vending machine `Python`
 
----
+<br>
 
 ## `$ cat github-stats.sh`
 
@@ -68,7 +69,7 @@
 
 </div>
 
----
+<br><br>
 
 ## `$ cat quirks.txt`
 
@@ -79,7 +80,7 @@
 💻  Most of the time, I code for fun and learn out of curiosity.
 ```
 
----
+<br>
 
 ## `$ cat contact.md`
 
@@ -91,7 +92,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
