@@ -1,49 +1,52 @@
-<div align="center">
+<div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Joynob+%F0%9F%91%8B;I+build+things+and+break+them+to+learn.;Final+year+CSE+%40+NDUB;Aspiring+ML+Engineer)](https://github.com/joynob124)
-
-<br/>
-
-*"The best way to understand something is to build it yourself — badly — then do it again."*
-
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=500&color=A78BFA&center=false&vCenter=true&width=700&lines=Hey+there%2C+I'm+Joynob+%F0%9F%91%8B;I+build+things+and+break+them+to+learn.;)](https://github.com/joynob124)
 ---
-
-## `$ ls skills/`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+#### CSE Final Year Student @ NDUB | Aspiring ML Engineer | Enthusiastic Learner
+I build systems and models that turn hours of technical work into minutes of tech-empowered action
 
 </div>
 
+ 
+## `$ ls Tech Stack/`
+ 
+**Language** &nbsp;
+`Python` `Java` `C++` `C` `Dart`     
+##### ♥️Java has my heart <3 #####
+ 
+**ML / AI** &nbsp;
+`scikit-learn` `XGBoost`
+ 
+**Frontend** &nbsp;
+`React` `Three.js` `HTML` `CSS`
+ 
+**Backend** &nbsp;
+`SQL` 
+ 
+**Mobile Applications** &nbsp;
+`Flutter` `Dart`
+ 
+**Data** &nbsp;
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Oracle Database` `Realational Data`
+ 
 ---
-
-## `$ cat projects.log`
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🐾 **Commit** | A gamified 3D virtual pet that grows with GitHub contributions | React · Three.js |
-| 🏦 **Banque** | Full banking system | Java |
-| ⚙️ **C-Compiler-Design** | Designing a C compiler from scratch | C |
-| ☕ **Coffee Vending Machine** | Console-based coffee vending machine simulator | Python |
-| 📓 **Memoriee Journal** | A simple, clean personal journal app | Flutter · Dart |
-| 🎮 **Tic-Tac-Toe** | Two-player game with Java GUI | Java |
-
-</div>
+ 
+## `$ ls builds/`
+ 
+**🤖 ML | AI**
+- **House Price Predictor** — End-to-end regression pipeline with feature engineering `XGBoost` `scikit-learn`
+- **Titanic Classifier** — Survival prediction with full ML pipeline `Python` `Pandas`
+- **Adult Income Classifier** — Supervised classification on census data `scikit-learn`
+  
+**🌐 Web | Full-stack**
+- **Commit** — Gamified 3D virtual pet that grows with GitHub activity `React` `Three.js`
+- **Memoriee Journal** — Clean, minimal personal journal app `Flutter` `Dart`
+  
+**⚙️ Systems | Low-level**
+- **Banque** — Full banking system `Java`
+- **C Compiler Design** — Building a C compiler from scratch `C`
+- **Tic-Tac-Toe** — Two-player game with Java GUI `Java`
+- **Coffee Vending Machine** — A console based fully functional vending machine `Python`
 
 ---
 
@@ -69,7 +72,8 @@
 ```
 ⚡  Mid-exam realization: I should learn something new out of my syllabus. Right now.
 🔨  If something looks cool, I want to know how to build it. No exceptions.
-🌀  Side project productivity peaks exactly when deadlines approach
+🌀  Project productivity peaks exactly when deadlines approach
+💻  Most of the time, I code for fun and learn out of curiosity.
 ```
 
 ---
